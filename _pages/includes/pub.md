@@ -5,8 +5,8 @@
 - Xiaoxiao Wang†, **Yunjia Qi†(Co-First Author)**, Zhengqian Li, Sichen Liu, Co-first author，A Convolutional Neural Network Model to Predict Deep Hypnotic Events from Bispectral Index Values[J], Anesthesia & Analgesia (SCI Q1, IF 5.7)
 
 ## Conference
-- ``ACDSA`` Jiayi Song,**Yunjia Qi**, Yichen Cui, Xiaoxiao Wang, Lingshan Zhang, Sichen Liu, "A Two-Stage Framework with Ordinal Constraints for Age Estimation from Retinal Fundus Images," in Proceedings of the International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), Antalya, Türkiye, Aug. 7-9, 2025
 - ``ICASIS`` **Yunjia Qi**, Ruiyang Wu, Jiayi Wang, Mengyuan Wang, Sichen Liu, "Joint Caliber and Transient Acoustic Signals Classification with Wavelet Domain Analysis," in Proc. International Conference on Advanced Sensing and Intelligent Systems (ICASIS), Jun. 13–15, 2025.
+- ``ACDSA`` Jiayi Song,**Yunjia Qi**, Yichen Cui, Xiaoxiao Wang, Lingshan Zhang, Sichen Liu, "A Two-Stage Framework with Ordinal Constraints for Age Estimation from Retinal Fundus Images," in Proceedings of the International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), Antalya, Türkiye, Aug. 7-9, 2025
 - ``ICASIS`` Yutong Hu,**Yunjia Qi**, Langran Yuan, Yushen Wu, Sichen Liu, "Multimodal Physiological Signal Fusion with TS-CNN for Early Prediction of 
 Intraoperative Hypotension," in Proc. International Conference on Advanced Sensing and Intelligent Systems (ICASIS), Jun. 13–15, 2025.
 - ``ICASIS`` Qifeng Han,**Yunjia Qi**, Tianfang Qin, Liu Yang, Chenghao Hu, Sichen Liu, "Wavelet Convolution: An Urban Sound Source Recognition Method," in Proc. International Conference on Advanced Sensing and Intelligent Systems (ICASIS), Jun. 13–15, 2025.
