@@ -1,4 +1,6 @@
 # 🎖 Honors and Awards
+- *2025.06* ICASIS 2025 Best Paper Award, Winner
+- *2025.06* ICASIS 2025 Participation of Oral Presentation, Winner
 - *2025.05* XJTLU Electronic Transition Self-discipline Challenge, Winner
 - *2025.03* XJTLU Alumni Ambassador
 - *2024.11* XJTLU Outstanding Student
