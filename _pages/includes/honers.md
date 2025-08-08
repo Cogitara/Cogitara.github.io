@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- *2025.07* Google Analytics Certification
 - *2025.06* ICASIS 2025 Best Paper Award, Winner
 - *2025.06* ICASIS 2025 Participation of Oral Presentation, Winner
 - *2025.05* XJTLU Electronic Transition Self-discipline Challenge, Winner
