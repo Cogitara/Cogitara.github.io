@@ -21,12 +21,13 @@
 - ``OpenGL`` [3D Christmas Valley](https://github.com/QiYunjia/OPENGL-Christmas-Village)
 
 ## Software Development
- - [All-in-One Fitness Management System]
+ - [All-in-One Fitness Management System](https://github.com/QiYunjia/Fitness4Life-All-In-One-Fitness-System)
 
 ## Game Design
- - ``Unity``  [Tank Battle]()
- - ``Unity``  [Glacier Rush]
- - [Rouge Game]
+ - ``Unity``  [Tank Battle](https://github.com/QiYunjia/UNITY-Tank-Battle)
+ - ``Unity``  [Glacier Rush]()
+ - ``Unity``  [Arena:Trail of the Gladiatcor](https://github.com/QiYunjia/UNITY-Arena)
+ - [Rouge Game]()
 
 
 <!-- 
