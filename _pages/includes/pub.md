@@ -2,10 +2,12 @@
 # 📝 Publications 
 
 ## Journal
+
+<--
 - **Yunjia Qi**, Feiran Yang, Tonghui Wu, Sichen Liu, Phase Correction: Strucurally Guided Phase Modeling For Speech Enhancement[J], IEEE Signal Processing Letters
 
 - Xiaoxiao Wang†, **Yunjia Qi†(Co-First Author)**, Zhengqian Li, Sichen Liu, Co-first author，A Convolutional Neural Network Model to Predict Deep Hypnotic Events from Bispectral Index Values[J], Anesthesia & Analgesia
-
+-->
 ## Conference
 - ``ICASIS`` **Yunjia Qi**, Ruiyang Wu, Jiayi Wang, Mengyuan Wang, Sichen Liu, "Joint Caliber and Transient Acoustic Signals Classification with Wavelet Domain Analysis," in Proc. International Conference on Advanced Sensing and Intelligent Systems (ICASIS), Jun. 13–15, 2025.
 - ``ACDSA`` Jiayi Song,**Yunjia Qi**, Yichen Cui, Xiaoxiao Wang, Lingshan Zhang, Sichen Liu, "A Two-Stage Framework with Ordinal Constraints for Age Estimation from Retinal Fundus Images," in Proceedings of the International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), Antalya, Türkiye, Aug. 7-9, 2025
