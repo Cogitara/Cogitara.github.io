@@ -3,7 +3,7 @@
 
 ## Journal
 
-<--
+<!--
 - **Yunjia Qi**, Feiran Yang, Tonghui Wu, Sichen Liu, Phase Correction: Strucurally Guided Phase Modeling For Speech Enhancement[J], IEEE Signal Processing Letters
 
 - Xiaoxiao Wang†, **Yunjia Qi†(Co-First Author)**, Zhengqian Li, Sichen Liu, Co-first author，A Convolutional Neural Network Model to Predict Deep Hypnotic Events from Bispectral Index Values[J], Anesthesia & Analgesia
