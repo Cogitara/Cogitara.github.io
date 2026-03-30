@@ -14,7 +14,12 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    @include span(2 of 12);
+    float: none;
+    margin-left: 0;
+    width: 300px;
+    max-width: 300px;
+    flex: 0 0 300px;
+    order: 2;
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -97,8 +102,11 @@
     border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      width: auto;
+      height: auto;
+      padding: 0;
+      border: 0;
+      box-shadow: 0 0 0 1px $border-color;
     }
   }
 }
@@ -121,6 +129,7 @@
 
 .author__name {
   margin: 0;
+  white-space: nowrap;
 
   @include breakpoint($large) {
     margin-top: 10px;

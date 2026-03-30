@@ -21,8 +21,14 @@ body {
   }
 }
 
+/* global image responsiveness */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 h1, h2, h3, h4, h5, h6 {
-  margin: 1em 0 0.5em;
+  margin: 0.8em 0 0.4em;
   line-height: 1.2;
   font-family: $header-font-family;
   font-weight: bold;
