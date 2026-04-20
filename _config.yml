@@ -25,7 +25,7 @@ author:
   # avatar         : "images/ry_profile.jpeg"   # 无头像信息，已注释
   bio              : "Master student at Cyberspace Institute of Advanced Technology, Guangzhou University. Interested in graph algorithms, cache-centric data structures, and network dismantling."
   location         : "Guangzhou, P.R. China"
-  employer         : "Cyberspace Institute of Advanced Technology, Guangzhou University"
+  employer         : #"Cyberspace Institute of Advanced Technology, Guangzhou University"
   email            : "wsjin@e.gzhu.edu.cn"
   # 以下社交媒体字段因简历中未提供，已移除或注释
   # googlescholar   : 
