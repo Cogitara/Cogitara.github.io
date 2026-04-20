@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Sijin Wang (王思进)"
 description              : "Focusing on graph algorithms, graph query processing, and network dismantling."
-repository               : "rayeren/rayeren.github.io"   # 保留原仓库地址，您可按需修改
+repository               : "Cogitara/Cogitara.github.io"   # 保留原仓库地址，您可按需修改
 google_scholar_stats_use_cdn : true
 
 # google analytics
